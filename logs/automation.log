@@ -1,0 +1,161 @@
+16:40:35.092 [main] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+16:40:35.108 [main] INFO  TestClass.T001VerifyTitle -  getting title 
+16:40:35.108 [main] INFO  TestClass.T001VerifyTitle -  title validation 
+16:44:33.201 [main] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+16:44:33.331 [main] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+16:44:33.414 [main] INFO  TestClass.T002Addtocart - Naviagted to cart 
+16:44:33.445 [main] INFO  TestClass.T002Addtocart -  get text 
+16:44:33.447 [main] INFO  TestClass.T002Addtocart -  validate product title 
+16:45:06.447 [main] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+16:45:06.560 [main] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+16:45:06.648 [main] INFO  TestClass.T002Addtocart - Naviagted to cart 
+16:45:06.681 [main] INFO  TestClass.T002Addtocart -  get textt 
+16:45:06.683 [main] INFO  TestClass.T002Addtocart -  validate product title 
+16:45:32.312 [main] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+16:45:32.448 [main] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+16:45:32.558 [main] INFO  TestClass.T002Addtocart - Naviagted to cart 
+16:45:32.597 [main] INFO  TestClass.T002Addtocart -  get textt 
+12:10:21.411 [TestNG-tests-2] INFO  TestClass.T002Addtocart - (edge Browser setup started
+12:10:21.411 [TestNG-tests-1] INFO  TestClass.T002Addtocart - (chrome Browser setup started
+12:10:22.083 [TestNG-tests-2] INFO  TestClass.T002Addtocart - url opened
+12:10:22.869 [TestNG-tests-1] INFO  TestClass.T002Addtocart - url opened
+12:10:23.392 [TestNG-tests-1] INFO  TestClass.T002Addtocart - (credentials passed
+12:10:23.703 [TestNG-tests-1] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:10:23.742 [TestNG-tests-2] INFO  TestClass.T002Addtocart - (credentials passed
+12:10:23.795 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:10:24.072 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:10:24.298 [TestNG-tests-2] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:10:24.322 [TestNG-tests-1] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:10:24.322 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:10:24.414 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  get textt 
+12:10:24.422 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  validate product title 
+12:10:24.750 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:10:24.937 [TestNG-tests-2] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:10:25.011 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  get textt 
+12:10:25.011 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  validate product title 
+12:10:26.602 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - (chrome Browser setup started
+12:10:27.080 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - url opened
+12:10:27.871 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - (edge Browser setup started
+12:10:28.430 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - url opened
+12:10:29.660 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:10:29.944 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:10:29.966 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:10:29.988 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:10:29.993 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  getting title 
+12:10:29.994 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  title validation 
+12:10:30.364 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:10:30.371 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:10:30.391 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  getting title 
+12:10:30.391 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  title validation 
+12:10:31.798 [TestNG-tests-3] INFO  TestClass.T002Addtocart - (firefox Browser setup started
+12:10:33.392 [TestNG-tests-3] INFO  TestClass.T002Addtocart - url opened
+12:10:33.606 [TestNG-tests-3] INFO  TestClass.T002Addtocart - (credentials passed
+12:10:33.788 [TestNG-tests-3] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:10:33.797 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:10:33.884 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:10:33.983 [TestNG-tests-3] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:10:34.003 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  get textt 
+12:10:34.003 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  validate product title 
+12:10:38.401 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - (firefox Browser setup started
+12:10:39.482 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - url opened
+12:10:39.705 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:10:39.911 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:10:39.915 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:10:39.927 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  getting title 
+12:10:39.927 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  title validation 
+12:21:33.579 [TestNG-tests-1] INFO  TestClass.T002Addtocart - (chrome Browser setup started
+12:21:33.579 [TestNG-tests-2] INFO  TestClass.T002Addtocart - (edge Browser setup started
+12:21:34.792 [TestNG-tests-1] INFO  TestClass.T002Addtocart - url opened
+12:21:34.881 [TestNG-tests-2] INFO  TestClass.T002Addtocart - url opened
+12:21:35.473 [TestNG-tests-2] INFO  TestClass.T002Addtocart - (credentials passed
+12:21:35.503 [TestNG-tests-1] INFO  TestClass.T002Addtocart - (credentials passed
+12:21:35.865 [TestNG-tests-2] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:21:35.868 [TestNG-tests-1] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:21:35.920 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:21:35.986 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:21:36.179 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:21:36.203 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:21:36.326 [TestNG-tests-2] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:21:36.397 [TestNG-tests-1] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:21:36.438 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  get textt 
+12:21:36.442 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  validate product title 
+12:21:36.457 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  get textt 
+12:21:36.457 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  validate product title 
+12:21:38.966 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - (chrome Browser setup started
+12:21:39.189 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - (edge Browser setup started
+12:21:39.335 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - url opened
+12:21:39.612 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - url opened
+12:21:40.723 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:21:40.805 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:21:41.114 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:21:41.122 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:21:41.156 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  getting title 
+12:21:41.156 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  title validation 
+12:21:41.203 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:21:41.234 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:21:41.280 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  getting title 
+12:21:41.280 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  title validation 
+12:21:43.116 [TestNG-tests-3] INFO  TestClass.T002Addtocart - (firefox Browser setup started
+12:21:44.309 [TestNG-tests-3] INFO  TestClass.T002Addtocart - url opened
+12:21:44.491 [TestNG-tests-3] INFO  TestClass.T002Addtocart - (credentials passed
+12:21:44.656 [TestNG-tests-3] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:21:44.658 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:21:44.761 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:21:44.853 [TestNG-tests-3] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:21:44.870 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  get textt 
+12:21:44.870 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  validate product title 
+12:21:49.122 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - (firefox Browser setup started
+12:21:49.993 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - url opened
+12:21:50.142 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:21:50.287 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:21:50.289 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:21:50.293 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  getting title 
+12:21:50.293 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  title validation 
+12:57:12.522 [TestNG-tests-2] INFO  TestClass.T002Addtocart - (edge Browser setup started
+12:57:12.522 [TestNG-tests-1] INFO  TestClass.T002Addtocart - (chrome Browser setup started
+12:57:13.002 [TestNG-tests-1] INFO  TestClass.T002Addtocart - url opened
+12:57:13.722 [TestNG-tests-2] INFO  TestClass.T002Addtocart - url opened
+12:57:14.363 [TestNG-tests-2] INFO  TestClass.T002Addtocart - (credentials passed
+12:57:14.419 [TestNG-tests-1] INFO  TestClass.T002Addtocart - (credentials passed
+12:57:14.871 [TestNG-tests-2] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:57:14.873 [TestNG-tests-1] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:57:14.969 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:57:14.972 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:57:15.175 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:57:15.195 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:57:15.331 [TestNG-tests-2] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:57:15.364 [TestNG-tests-1] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:57:15.405 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  get textt 
+12:57:15.410 [TestNG-tests-2] INFO  TestClass.T002Addtocart -  validate product title 
+12:57:15.426 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  get textt 
+12:57:15.426 [TestNG-tests-1] INFO  TestClass.T002Addtocart -  validate product title 
+12:57:18.429 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - (chrome Browser setup started
+12:57:18.535 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - (edge Browser setup started
+12:57:20.146 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - url opened
+12:57:20.151 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - url opened
+12:57:20.715 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:57:20.758 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:57:21.015 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:57:21.025 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:57:21.080 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:57:21.122 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:57:21.127 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  getting title 
+12:57:21.127 [TestNG-tests-2] INFO  TestClass.T001VerifyTitle -  title validation 
+12:57:21.193 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  getting title 
+12:57:21.194 [TestNG-tests-1] INFO  TestClass.T001VerifyTitle -  title validation 
+12:57:22.208 [TestNG-tests-3] INFO  TestClass.T002Addtocart - (firefox Browser setup started
+12:57:23.329 [TestNG-tests-3] INFO  TestClass.T002Addtocart - url opened
+12:57:23.507 [TestNG-tests-3] INFO  TestClass.T002Addtocart - (credentials passed
+12:57:23.743 [TestNG-tests-3] INFO  TestClass.T002Addtocart - clicked on loginbutton
+12:57:23.747 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  Starting T002Addtocart 
+12:57:23.853 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  clicked on addtoproductbutton 
+12:57:23.946 [TestNG-tests-3] INFO  TestClass.T002Addtocart - Naviagted to cart 
+12:57:23.991 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  get textt 
+12:57:23.991 [TestNG-tests-3] INFO  TestClass.T002Addtocart -  validate product title 
+12:57:28.432 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - (firefox Browser setup started
+12:57:29.174 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - url opened
+12:57:29.373 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - (credentials passed
+12:57:29.534 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle - clicked on loginbutton
+12:57:29.536 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  Starting TC_001_verifytitle 
+12:57:29.544 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  getting title 
+12:57:29.545 [TestNG-tests-3] INFO  TestClass.T001VerifyTitle -  title validation 

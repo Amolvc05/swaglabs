@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+  <test name="ChromeTest">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestClass.T002Addtocart"/>
+      <class name="TestClass.T001VerifyTitle"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test  name="edgeTest">
+  <parameter name="browser" value="Edge"/>
+    <classes>
+      <class name="TestClass.T002Addtocart"/>
+      <class name="TestClass.T001VerifyTitle"/>
+    </classes>
+  </test>
+  
+  <test  name="firefoxTest">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="TestClass.T002Addtocart"/>
+      <class name="TestClass.T001VerifyTitle"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
